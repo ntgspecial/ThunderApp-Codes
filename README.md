@@ -8,5 +8,5 @@ An Android app to stream and download your media stored in Google Drive in an Aw
 </p>
 
 #### Codes For Android TV / Fire Stick:
-### [V1.0.2](https://github.com/anujd64/Thunder/releases/tag/v1.0.2) 
-<img src="https://raw.githubusercontent.com/ntgspecial/ThunderApp-Codes/main/Codes/V1.0.2.jpg">
+### [V1.0.6](https://github.com/anujd64/Thunder/releases/tag/v1.0.6) 
+<img src="https://github.com/ntgspecial/ThunderApp-Codes/raw/main/Codes/Screenshot_2022-11-06-14-07-34-032-edit_com.brave.browser.jpg">
